@@ -1,4 +1,4 @@
-Hello, I'm Chris, and these are my CyberSecurity first steps!
+Hello, I'm Chris, and these are my first steps into CyberSecurity!
 
 I hope to use this as a log, and progress tracker, of my venture into the world of CyberSecurity. I come into this with only a very passive knowledge of how networks, hardware and computers work generally. My aim is to boost that knowledge significantly and put me in a position to become hireable as a Security Operations Centre (SOC) Analyst in the future.
 
